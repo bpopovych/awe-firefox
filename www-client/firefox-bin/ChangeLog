@@ -2,6 +2,12 @@
 # Copyright 1999-2012 Gentoo Foundation; Distributed under the GPL v2
 # $Header: $
 
+*firefox-bin-20.0_alpha1 (03 Jan 2013)
+
+  03 Jan 2013; <bohdan@popovych.info> -firefox-bin-19.0_alpha1.ebuild,
+  +firefox-bin-20.0_alpha1.ebuild:
+  Version bump.
+
   16 Nov 2012; <yporti@gentoo.org> files/10firefox-bin,
   files/chrome/default16.png, files/chrome/default32.png,
   files/chrome/default48.png, files/firefox-bin.desktop,
