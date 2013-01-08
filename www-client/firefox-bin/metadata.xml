@@ -3,7 +3,8 @@
 <pkgmetadata>
 <herd>no-herd</herd>
 <maintainer>
-	<email>bruno@yporti.com</email>
+	<email>bohdan@popovych.info</email>
+	<name>Bohdan Popovych</name>
 </maintainer>
 <longdescription>Mozilla Firefox Nightly build</longdescription>
 <use>
